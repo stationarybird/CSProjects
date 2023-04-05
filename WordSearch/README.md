@@ -10,5 +10,6 @@ My program can find horizontal, vertical, and diagonal words.
 
 When running the program, first input the name of the file with the input. 
 Example output:
+
 <img width="199" alt="image" src="https://user-images.githubusercontent.com/74311720/229976773-b9ef5652-fc70-4dc8-9615-eb8443238511.png">
 
