@@ -5,4 +5,4 @@ These are my labs/projects that I completed in my AP Computer Science class at L
 
 They include:
 
-Word Search: horizontal, vertical, and diagonal words. 
+Word Search: can find horizontal, vertical, and diagonal words. 
